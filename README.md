@@ -21,7 +21,7 @@ Updates 19.11:
         6. Go though 30 clusters, take top 5 words from each cluster and create mapping for each topic (create real articles)
         7. Create 10 multiclasstes basing on 30 prev clusters (for API and back-end)
         8. Create Train/Test dataset: features - emdedding from 4th step, target - clusterized value.
-        9. Create basic model, save it and save metrics, provide model and transformer alg. to back-end team
+        9. Create basic model `LogReg`, save it and save metrics, provide model and transformer alg. to back-end team
 
 2. Research reqsys topic (in progress)
     * https://docs.google.com/document/d/1ZVEmShjWnnpT0xg1RIIHsEsNuUdaBXIX7GXZyEecrNA/edit?usp=sharing
