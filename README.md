@@ -1,7 +1,7 @@
 # DS_F1ght_TEAM
 
 Updates 06.11:
-At the moment we are at the research stage for the best approches for recsys (chech clusterization folder), so we do not provide train-test splits. 
+At the moment we are at the research stage for the best approches for recsys (check clusterization folder), so we do not provide train-test splits. 
 For the DE part, we worked on adding FastApi (before that and at the moment we have a telegram bot)
 All gelstalts that we did not close for the 3rd sprint we will close by 16.11.
 
